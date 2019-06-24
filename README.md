@@ -41,7 +41,7 @@ $ git push heroku master
 ```
 
 ## Slides
-https://www.slideshare.net/HidehiroNagaoka/le-wagon-tokyo-line-bot-101
+https://www.slideshare.net/YannKlein2/line-chatbot-151499903
 
 ## Docs
 ### Docs of LINE Messagin API

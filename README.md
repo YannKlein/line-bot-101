@@ -1,3 +1,5 @@
+Built on the shoulder of giants, especially https://github.com/hidehiro98/
+
 # LINE Bot 101
 
 [日本語ドキュメント](README.ja.md)
@@ -6,7 +8,7 @@
 - [LINE Messaging API](https://developers.line.me/en/docs/messaging-api/)
 - Heroku
 
-## NOTION!
+## BE CAREFUL!
 DO NOT INCLUDE 'line' in the name of provider and channel.
 If you do so, you cannnot create the provider nor the channel.
 
@@ -26,11 +28,6 @@ Ubuntu
 $ sudo snap install --classic heroku
 
 $ git push heroku master
-
-Please ignore these lines
-$ brew install heroku/brew/heroku
-$ heroku create $YOUR_APP_NAME
-
 $ heroku config:set LINE_CHANNEL_SECRET=$YOUR_LINE_CHANNEL_SECRET
 $ heroku config:set LINE_ACCESS_TOKEN=$YOUR_LINE_ACCESS_TOKEN
 Example

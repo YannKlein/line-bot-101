@@ -16,7 +16,7 @@ If you do so, you cannnot create the provider nor the channel.
 ```
 $ git clone https://github.com/hidehiro98/line-bot-101.git
 $ cd line-bot-101
-$ git remote add heroku https://git.heroku.com/YOUR-APP-NAME-ON-HEROKU.git
+$ git remote add heroku https://git.heroku.com/[your-chatbot].git
 
 macOS
 If you don't have brew
